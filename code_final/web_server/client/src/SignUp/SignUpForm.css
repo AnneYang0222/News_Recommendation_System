@@ -1,0 +1,9 @@
+.signup-panel {
+    margin: auto;
+    width: 50%;
+}
+
+.error-message {
+    padding-left: 20px;
+    color: burlywood;
+}
